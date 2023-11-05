@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import random
 print("Welcome to the PyPassword Generator!")
 letter = int(input("How many letters would you like in your password?\n"))
