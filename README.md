@@ -41,7 +41,7 @@ Install my-project:
 
 ```bash
   Run the code with the following command:
-  python '.\Password Generator.py'
+  python password_generator.py'
 ```
 
 
